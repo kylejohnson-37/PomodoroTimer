@@ -1,5 +1,4 @@
 # PomodoroTimer
-Pomodoro Timer
 
 For this timer I decided to use Javascript and the jQuery library for the front end, and Python for the backend.
 
@@ -10,7 +9,9 @@ Issues that I ran into:
 
 This was an eye opening and humbling project to work through. Since my current work already has everything I need to begin coding set up it isn't something I do not do regularly, that is an area I do need to improve on. 
 
+
 # How To Run:
+
 1. Download/Clone the following project to your local machine (You may have to extract the file if downloaded as a ZIP)
 2. Open CMD, and run "cd *the path to the copied code*" (Ex. "cd C:\Users\kylej\Documents\PomodoroTimer-master")
 3. Run "node start.js", you should see "Example app listening on port 8000"
