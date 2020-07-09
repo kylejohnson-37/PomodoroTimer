@@ -5,7 +5,9 @@ For this timer I decided to use Javascript and the jQuery library for the front 
 Issues that I ran into:
 1. I wasn't super familar with using NPM so I had to do some quick research on that.
 2. I was able to make calls to my backend, but the initial set up to allow this took longer than expected. This didn't allow for much programming afterwards.
-3. Since I am on vacation and away from my home PC I had to do some set up on the PC available to me.
+3. I struggled to get the index.js file found when using the Express framework to put the code on a local server. This resulted in me putting the scripts in the html file. 
+  (I know this is bad practice and would never do it in a production enviroment)
+4. Since I am on vacation and away from my home PC I had to do some set up on the PC available to me.
 
 This was an eye opening and humbling project to work through. Since my current work already has everything I need to begin coding set up, it is not something I do regularly, this is an area I do need to improve on. 
 
